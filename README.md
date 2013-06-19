@@ -1,4 +1,4 @@
 netos
 =====
 
-CUCL SRG NetOS default paper repository.
+CUCL SRG NetOS default repository.
